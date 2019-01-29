@@ -1,2 +1,2 @@
 # Git-Githug
-Test
+Sample test
